@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.tig</groupId>
 	<artifactId>neh</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>mule</packaging>
 	<name>Mule neh Application</name>
 	
@@ -12,7 +12,7 @@
 		<url>https://github.com/LokeshVermaG/neh</url>
 		<developerConnection>scm:git:https://github.com/LokeshVermaG/neh.git</developerConnection>
 		<connection>scm:git:https://github.com/LokeshVermaG/neh.git</connection>
-		<tag>HEAD</tag>
+		<tag>v1.0.1</tag>
 	</scm>
 
     <properties>
